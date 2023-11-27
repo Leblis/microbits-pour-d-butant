@@ -1,0 +1,7 @@
+echo "# microbits-pour-d-butant" >> README.md
+  git init
+  git add README.md
+  git commit -m "first commit"
+  git branch -M main
+  git remote add origin https://github.com/Leblis/microbits-pour-d-butant.git
+  git push -u origin main
